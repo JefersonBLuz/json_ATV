@@ -1,0 +1,158 @@
+{
+    "Notebook":[
+        {
+            "Marca": "Sanguesuga",
+            "Modelo": "Versão Falhada",
+            "Valor": 500.00,
+            "Disponibilidade": false,
+            "Cores":[
+                "black","White"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "PACMAN",
+            "Modelo": "Versão FELIZ",
+            "Valor": 2500.00,
+            "Disponibilidade": true,
+            "Cores":[
+                "black","White","pink"
+            ],
+            "Memoria": 256
+        },
+        {
+            "Marca": "Cupeta",
+            "Modelo": "Quebra-Galho",
+            "Valor": 1500.00,
+            "Disponibilidade": true,
+            "Cores":[
+                "black","red", "green", "White"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "Sanguesuga",
+            "Modelo": "Versão Veridica",
+            "Valor": 1750.99,
+            "Disponibilidade": true,
+            "Cores":[
+                "black"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "PACMAN",
+            "Modelo": "Versão Triste",
+            "Valor": 1.57,
+            "Disponibilidade": true,
+            "Cores":[
+                "pupple","pink"
+            ],
+            "Memoria": 2
+        }
+    ],
+    "Celular":[
+        {
+            "Marca": "XAMEAI",
+            "Modelo": "Versão Falhada",
+            "Valor": 500.00,
+            "Disponibilidade": false,
+            "Cores":[
+                "black","White"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "PERA MORDIDA",
+            "Modelo": "Versão FELIZ",
+            "Valor": 2500.00,
+            "Disponibilidade": true,
+            "Cores":[
+                "black","White","pink"
+            ],
+            "Memoria": 256
+        },
+        {
+            "Marca": "TIJOLAO",
+            "Modelo": "Quebra-Galho",
+            "Valor": 1500.00,
+            "Disponibilidade": true,
+            "Cores":[
+                "black","red", "green", "White"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "XAMEAI",
+            "Modelo": "Versão Veridica",
+            "Valor": 1750.99,
+            "Disponibilidade": true,
+            "Cores":[
+                "black"
+            ],
+            "Memoria": 64
+        },
+        {
+            "Marca": "PERA MORDIDA",
+            "Modelo": "Versão Triste",
+            "Valor": 1.57,
+            "Disponibilidade": true,
+            "Cores":[
+                "pupple","pink"
+            ],
+            "Memoria": 2
+        }
+    ],
+    "Acessórios":[
+        {
+            "Nome":"TECLADO",
+            "Marca": "migrasoft",
+            "Cores":[
+                "black","red"
+            ],
+            "Modelo": "Led",
+            "Valor": 180.35,
+            "Disponibilidade": true
+        },
+        {
+            "Nome":"MOUSE",
+            "Marca": "migrasoft",
+            "Cores":[
+                "yellow","red"
+            ],
+            "Modelo": "3500dpi",
+            "Valor": 90.35,
+            "Disponibilidade":true
+        },
+        {
+            "Nome":"FONE",
+            "Marca": "JBL",
+            "Cores":[
+                "black"
+            ],
+            "Modelo": "Quantium 7000",
+            "Valor": 1590.35,
+            "Disponibilidade":true
+        },
+        {
+            "Nome":"NO-BREAK",
+            "Marca": "PODEC",
+            "Cores":[
+                "black","grey"
+            ],
+            "Modelo": "Bivolt - 6 out",
+            "Valor": 790.35,
+            "Disponibilidade":true
+        },
+        {
+            "Nome":"MONITOR",
+            "Marca": "VOC",
+            "Cores":[
+                "black","White"
+            ],
+            "Modelo": "24\"",
+            "Valor": 1030.29,
+            "Disponibilidade":true
+        }
+    ]
+}
